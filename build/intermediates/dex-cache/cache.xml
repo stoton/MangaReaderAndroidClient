@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\stoton\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="C:\Users\stoton\AndroidStudioProjects\MangaReader2\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_df594947a52226d87f51615187ebe8917fae5ff9.jar" />
+    </item>
+
+</items>
